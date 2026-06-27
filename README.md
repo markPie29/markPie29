@@ -12,7 +12,7 @@
 
 -🤝 Open to collaborating on software projects, web applications, and creative tech ideas.
 
--🌐 Portfolio: markpie.netlify.app
+-🌐 Portfolio: https://mark-isulat.netlify.app/
 
 -📫 Reach me at: markyisulat@gmail.com
 
