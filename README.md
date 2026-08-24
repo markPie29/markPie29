@@ -1,20 +1,15 @@
--👋 Hi, I’m @markPie29
+### 👋 Hi, I'm Mark — @markPie29
 
--💻 Aspiring Software Engineer and BS Computer Engineering student passionate about building impactful and user-centered applications.
+💻 Full-Stack Web Developer | 4th-year CpE student (DOST-SEI Scholar), URS Antipolo
+🏢 Ex-Nexvision Innovations intern — built enterprise logistics platforms (NexLogistics, SK Logistics FMS) with multi-tenant RLS architecture
+🚀 Freelance dev via **Marked Media** — shipping client web apps end-to-end
+🛠️ Stack: React, Next.js, TypeScript, Node.js/Express, Laravel, Supabase, Tailwind, Zustand, TanStack Query
+🎨 Also do UI/UX, graphic design, and AR/XR (Unity + Vuforia)
+🤝 Open to collaborating on web apps and creative tech projects
 
--🚀 Interested in full-stack web development, UI/UX design, game development, and AI-driven technologies.
+**Projects:** SK Logistics FMS · Portfolio CRM & Admin Dashboard · URSAC Hub Marketplace · AR-DUINO · Kado Kohi · URSAC Hub Social
 
--🌱 Currently learning React, modern frontend development, animation with Framer Motion, and advanced software engineering concepts.
-
--🛠️ Tech Stack: Laravel, React, JavaScript, PHP, Java, Python, MySQL, Unity, Firebase, Git/GitHub
-
--🎨 Also experienced in graphic design, video editing, and digital content creation.
-
--🤝 Open to collaborating on software projects, web applications, and creative tech ideas.
-
--🌐 Portfolio: https://mark-isulat.netlify.app/
-
--📫 Reach me at: markyisulat@gmail.com
+🌐 [markyisulat.dev](https://markyisulat.dev) · 📫 markyisulat@gmail.com
 
 <!---
 markPie29/markPie29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
