@@ -14,4 +14,4 @@
 
 Projects: SK Logistics FMS · Portfolio CRM & Admin Dashboard · URSAC Hub Marketplace · AR-DUINO · Kado Kohi · URSAC Hub Social
 
-🌐 markyisulat.dev · 📫 markyisulat@gmail.com
+🌐 [markyisulat.dev](https://www.markyisulat.dev/) · 📫 markyisulat@gmail.com
